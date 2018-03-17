@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warlog", "Warlog\Warlog.csproj", "{294BA30F-95BA-4EC5-B584-6F3374E84252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294BA30F-95BA-4EC5-B584-6F3374E84252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294BA30F-95BA-4EC5-B584-6F3374E84252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294BA30F-95BA-4EC5-B584-6F3374E84252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294BA30F-95BA-4EC5-B584-6F3374E84252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC3251D-3837-467F-8F5C-4E560AB077DC}
+	EndGlobalSection
+EndGlobal
